@@ -1,4 +1,4 @@
-package com.cecloud.cdp.shorturl.config;
+package com.vincent.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

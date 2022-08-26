@@ -1,8 +1,8 @@
 package com.vincent.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.cecloud.cdp.shorturl.config.SenderNumProperties;
 import com.cecloud.cdp.shorturl.utils.ParamConstant;
+import com.vincent.config.SenderNumProperties;
 import com.vincent.entity.ShortUrlSenderNum;
 import com.vincent.mapper.ShortUrlSenderNumMapper;
 import com.vincent.service.IShortUrlSenderNumService;
